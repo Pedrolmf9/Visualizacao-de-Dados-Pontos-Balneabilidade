@@ -5,6 +5,6 @@ Tecnologias utilizadas:
 - Observable Framework
 - Vega-Lite
 - Map-Libre
-
+- Pandas
 Dados:
 - HUB SIGEO Niterói (https://www.sigeo.niteroi.rj.gov.br/)
