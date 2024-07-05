@@ -1,0 +1,143 @@
+ano,tipo,nomePraia,tx_status,quantidade
+2019,Baía de Guanabara,Boa Viagem,Imprópria,37
+2019,Baía de Guanabara,Boa Viagem,Própria,61
+2019,Baía de Guanabara,Charitas,Imprópria,180
+2019,Baía de Guanabara,Charitas,Própria,114
+2019,Baía de Guanabara,Gragoatá,Imprópria,69
+2019,Baía de Guanabara,Gragoatá,Própria,29
+2019,Baía de Guanabara,Jurujuba,Imprópria,168
+2019,Baía de Guanabara,Jurujuba,Própria,28
+2019,Baía de Guanabara,Praia da Fortaleza,Imprópria,33
+2019,Baía de Guanabara,Praia da Fortaleza,Própria,163
+2019,Baía de Guanabara,Praia das Flechas,Imprópria,89
+2019,Baía de Guanabara,Praia das Flechas,Própria,107
+2019,Baía de Guanabara,Praia de Icaraí,Imprópria,181
+2019,Baía de Guanabara,Praia de Icaraí,Própria,211
+2019,Baía de Guanabara,Praia de São Francisco,Imprópria,245
+2019,Baía de Guanabara,Praia de São Francisco,Própria,49
+2019,Oceânica,Camboinhas,Imprópria,8
+2019,Oceânica,Camboinhas,Própria,187
+2019,Oceânica,Itacoatiara,Imprópria,2
+2019,Oceânica,Itacoatiara,Própria,194
+2019,Oceânica,Itaipu,Imprópria,40
+2019,Oceânica,Itaipu,Própria,156
+2019,Oceânica,Piratininga,Própria,392
+2019,Oceânica,Praia do Sossego,Insufuciente/Não realizado,1
+2019,Oceânica,Praia do Sossego,Própria,97
+2020,Baía de Guanabara,Boa Viagem,Imprópria,16
+2020,Baía de Guanabara,Boa Viagem,Não Realizada,8
+2020,Baía de Guanabara,Boa Viagem,Própria,35
+2020,Baía de Guanabara,Charitas,Imprópria,81
+2020,Baía de Guanabara,Charitas,Insufuciente/Não realizado,1
+2020,Baía de Guanabara,Charitas,Não Realizada,16
+2020,Baía de Guanabara,Charitas,Própria,79
+2020,Baía de Guanabara,Gragoatá,Imprópria,23
+2020,Baía de Guanabara,Gragoatá,Não Realizada,8
+2020,Baía de Guanabara,Gragoatá,Própria,28
+2020,Baía de Guanabara,Jurujuba,Imprópria,75
+2020,Baía de Guanabara,Jurujuba,Não Realizada,16
+2020,Baía de Guanabara,Jurujuba,Própria,27
+2020,Baía de Guanabara,Praia da Fortaleza,Imprópria,17
+2020,Baía de Guanabara,Praia da Fortaleza,Não Realizada,16
+2020,Baía de Guanabara,Praia da Fortaleza,Própria,85
+2020,Baía de Guanabara,Praia das Flechas,Imprópria,35
+2020,Baía de Guanabara,Praia das Flechas,Insufuciente/Não realizado,1
+2020,Baía de Guanabara,Praia das Flechas,Não Realizada,16
+2020,Baía de Guanabara,Praia das Flechas,Própria,66
+2020,Baía de Guanabara,Praia de Icaraí,Imprópria,78
+2020,Baía de Guanabara,Praia de Icaraí,Insufuciente/Não realizado,1
+2020,Baía de Guanabara,Praia de Icaraí,Não Realizada,24
+2020,Baía de Guanabara,Praia de Icaraí,Própria,133
+2020,Baía de Guanabara,Praia de São Francisco,Imprópria,134
+2020,Baía de Guanabara,Praia de São Francisco,Insufuciente/Não realizado,1
+2020,Baía de Guanabara,Praia de São Francisco,Não Realizada,24
+2020,Baía de Guanabara,Praia de São Francisco,Própria,18
+2020,Oceânica,Camboinhas,Imprópria,1
+2020,Oceânica,Camboinhas,Não Realizada,8
+2020,Oceânica,Camboinhas,Própria,109
+2020,Oceânica,Itacoatiara,Imprópria,3
+2020,Oceânica,Itacoatiara,Não Realizada,8
+2020,Oceânica,Itacoatiara,Própria,107
+2020,Oceânica,Itaipu,Imprópria,9
+2020,Oceânica,Itaipu,Não Realizada,16
+2020,Oceânica,Itaipu,Própria,93
+2020,Oceânica,Piratininga,Imprópria,1
+2020,Oceânica,Piratininga,Não Realizada,24
+2020,Oceânica,Piratininga,Própria,211
+2020,Oceânica,Praia do Sossego,Insufuciente/Não realizado,2
+2020,Oceânica,Praia do Sossego,Não Realizada,6
+2020,Oceânica,Praia do Sossego,Própria,51
+2021,Baía de Guanabara,Boa Viagem,Imprópria,10
+2021,Baía de Guanabara,Boa Viagem,Própria,70
+2021,Baía de Guanabara,Charitas,Imprópria,96
+2021,Baía de Guanabara,Charitas,Própria,144
+2021,Baía de Guanabara,Gragoatá,Imprópria,28
+2021,Baía de Guanabara,Gragoatá,Própria,52
+2021,Baía de Guanabara,Jurujuba,Imprópria,117
+2021,Baía de Guanabara,Jurujuba,Própria,43
+2021,Baía de Guanabara,Praia da Fortaleza,Imprópria,14
+2021,Baía de Guanabara,Praia da Fortaleza,Própria,146
+2021,Baía de Guanabara,Praia das Flechas,Imprópria,32
+2021,Baía de Guanabara,Praia das Flechas,Própria,128
+2021,Baía de Guanabara,Praia de Icaraí,Imprópria,64
+2021,Baía de Guanabara,Praia de Icaraí,Própria,256
+2021,Baía de Guanabara,Praia de São Francisco,Imprópria,171
+2021,Baía de Guanabara,Praia de São Francisco,Própria,69
+2021,Oceânica,Camboinhas,Imprópria,5
+2021,Oceânica,Camboinhas,Própria,155
+2021,Oceânica,Itacoatiara,Imprópria,2
+2021,Oceânica,Itacoatiara,Própria,158
+2021,Oceânica,Itaipu,Imprópria,8
+2021,Oceânica,Itaipu,Própria,152
+2021,Oceânica,Piratininga,Própria,320
+2021,Oceânica,Praia do Sossego,Própria,80
+2022,Baía de Guanabara,Boa Viagem,Imprópria,21
+2022,Baía de Guanabara,Boa Viagem,Própria,70
+2022,Baía de Guanabara,Charitas,Imprópria,126
+2022,Baía de Guanabara,Charitas,Própria,147
+2022,Baía de Guanabara,Gragoatá,Imprópria,26
+2022,Baía de Guanabara,Gragoatá,Própria,65
+2022,Baía de Guanabara,Jurujuba,Imprópria,123
+2022,Baía de Guanabara,Jurujuba,Própria,59
+2022,Baía de Guanabara,Praia da Fortaleza,Imprópria,41
+2022,Baía de Guanabara,Praia da Fortaleza,Própria,141
+2022,Baía de Guanabara,Praia das Flechas,Imprópria,76
+2022,Baía de Guanabara,Praia das Flechas,Própria,106
+2022,Baía de Guanabara,Praia de Icaraí,Imprópria,134
+2022,Baía de Guanabara,Praia de Icaraí,Própria,230
+2022,Baía de Guanabara,Praia de São Francisco,Imprópria,179
+2022,Baía de Guanabara,Praia de São Francisco,Própria,94
+2022,Oceânica,Camboinhas,Imprópria,10
+2022,Oceânica,Camboinhas,Própria,172
+2022,Oceânica,Itacoatiara,Imprópria,3
+2022,Oceânica,Itacoatiara,Própria,179
+2022,Oceânica,Itaipu,Imprópria,8
+2022,Oceânica,Itaipu,Própria,174
+2022,Oceânica,Piratininga,Imprópria,1
+2022,Oceânica,Piratininga,Própria,363
+2022,Oceânica,Praia do Sossego,Própria,91
+2023,Baía de Guanabara,Boa Viagem,Imprópria,28
+2023,Baía de Guanabara,Boa Viagem,Própria,41
+2023,Baía de Guanabara,Charitas,Imprópria,126
+2023,Baía de Guanabara,Charitas,Própria,81
+2023,Baía de Guanabara,Gragoatá,Imprópria,46
+2023,Baía de Guanabara,Gragoatá,Própria,23
+2023,Baía de Guanabara,Jurujuba,Imprópria,109
+2023,Baía de Guanabara,Jurujuba,Própria,29
+2023,Baía de Guanabara,Praia da Fortaleza,Imprópria,35
+2023,Baía de Guanabara,Praia da Fortaleza,Própria,103
+2023,Baía de Guanabara,Praia das Flechas,Imprópria,84
+2023,Baía de Guanabara,Praia das Flechas,Própria,54
+2023,Baía de Guanabara,Praia de Icaraí,Imprópria,136
+2023,Baía de Guanabara,Praia de Icaraí,Própria,140
+2023,Baía de Guanabara,Praia de São Francisco,Imprópria,138
+2023,Baía de Guanabara,Praia de São Francisco,Própria,69
+2023,Oceânica,Camboinhas,Imprópria,2
+2023,Oceânica,Camboinhas,Própria,136
+2023,Oceânica,Itacoatiara,Imprópria,2
+2023,Oceânica,Itacoatiara,Própria,136
+2023,Oceânica,Itaipu,Imprópria,10
+2023,Oceânica,Itaipu,Própria,128
+2023,Oceânica,Piratininga,Imprópria,1
+2023,Oceânica,Piratininga,Própria,275
+2023,Oceânica,Praia do Sossego,Própria,69
