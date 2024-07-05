@@ -6,5 +6,6 @@ Tecnologias utilizadas:
 - Vega-Lite
 - Map-Libre
 - Pandas
+
 Dados:
 - HUB SIGEO Niterói (https://www.sigeo.niteroi.rj.gov.br/)
